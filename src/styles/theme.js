@@ -1,0 +1,42 @@
+export const colors = {
+  PRIMARY: '#1972B9',
+  PRIMARY2: '#21AA93',
+  SECONDARY: '#ff5722',
+  SUCCESS: '#31B456',
+  INFO: '#1972B9',
+  WARNING: '#FF8800',
+  DANGER: '#B30015',
+  DANGER_LIGHT: '#ff4444',
+  PURPLE: '#9933CC',
+  BORDER: '#eaeaea',
+  WHITE: '#fff',
+  BLACK: '#000',
+  BODY_BG: '#f5f5f5',
+  UNIQUE_COLOR_DARK: '#1C2331',
+  SPACIAL_COLOR: '#37474F',
+  SPACIAL_COLOR_DARK: '#263238',
+  STYLISH_COLOR_DARK: '#3E4551',
+  BODY_COLOR: 'rgba(0, 0, 0, .6)',
+  HEADING_COLOR: 'rgba(0, 0, 0, .8)',
+  PRIMARY_DARK: '#1663a2',
+  PRIMARY_LIGHT: '#288ee2',
+  SECONDARY_LIGHT: 'rgba(255, 119, 76, .3)',
+};
+
+export const font = {
+  size: {
+    H1: 17,
+    H2: 16,
+    H3: 15,
+    H4: 14,
+    H5: 13,
+    H6: 12,
+    PARAGRAPH: 12,
+    SMALL: 11,
+  },
+  weight: {
+    BOLD: '700',
+    NORMAL: '400',
+    SLIM: '300',
+  },
+};
